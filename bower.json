@@ -1,0 +1,21 @@
+{
+    "name": "tySlideJS",
+    "description": "jQuery Slider",
+    "main": [
+        "source/jquery.slides.js"
+    ],
+    "keywords": [
+        "slider"
+    ],
+    "homepage": "http://www.slidesjs.com/",
+    "dependencies": {
+        "jquery": "^2.2.3"
+    },
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ]
+}
